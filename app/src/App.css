@@ -1,0 +1,13 @@
+.form{
+    padding:20px;
+    margin:10px;
+}
+
+.form input{
+    display:flex;
+    justifyContent:column;
+    margin:20px 0;
+    height:30px;
+    width:200px;
+}
+
